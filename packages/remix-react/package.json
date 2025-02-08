@@ -21,8 +21,8 @@
   "dependencies": {
     "@remix-run/router": "1.22.0",
     "@remix-run/server-runtime": "workspace:*",
-    "react-router": "6.29.0",
-    "react-router-dom": "6.29.0",
+    "react-router": "^7.1.5",
+    "react-router-dom": "7.1.5",
     "turbo-stream": "2.4.0"
   },
   "devDependencies": {
